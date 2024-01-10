@@ -137,7 +137,3 @@ table.fSize {
 .disp {
     display: inline-table;
   }
-
-td.noBorder {
-    border: none;
-}
